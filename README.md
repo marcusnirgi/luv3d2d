@@ -4,6 +4,11 @@
   A Garry's Mod library for creating 3D2D canvases with ease.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-archived-lightgrey" alt="Archived" />
+  <img src="https://img.shields.io/badge/purpose-learning-orange" alt="Learning project" />
+</p>
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
